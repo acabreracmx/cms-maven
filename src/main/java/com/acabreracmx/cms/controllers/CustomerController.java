@@ -1,7 +1,7 @@
 package com.acabreracmx.cms.controllers;
 
 import com.acabreracmx.cms.entities.Customer;
-import com.acabreracmx.cms.servicees.CustomerService;
+import com.acabreracmx.cms.services.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

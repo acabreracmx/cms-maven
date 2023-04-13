@@ -1,4 +1,4 @@
-package com.acabreracmx.cms.servicees;
+package com.acabreracmx.cms.services;
 
 import com.acabreracmx.cms.entities.Customer;
 import com.acabreracmx.cms.repositories.CustomerRepository;
